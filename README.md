@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # map_yaallah
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# map_apps
+Ujian Akhir Semester Mobile Computing Sub bab 1 - Android MAPS API
+>>>>>>> 0491c52c4d388186709852359e2b38e1d2be8ffe
